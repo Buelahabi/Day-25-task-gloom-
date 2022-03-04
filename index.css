@@ -1,0 +1,28 @@
+#home{
+    width: 140%;
+    height: 150vh;
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(https://www.reliablesoft.net/wp-content/uploads/2017/07/homepage-seo-ecommerce.jpg);
+}
+
+.heading{
+   
+    color: rgb(209, 112, 112);
+    width: 70%;
+    margin: auto;
+    padding-top:95px;
+   
+}
+
+.quotes{
+    color: rgb(199, 88, 88);
+    width: 50%;
+    margin: auto;
+    
+}
+
+a{
+    color: rgb(196, 77, 77) !important;
+}
+.navbar-toggler-icon{
+    color: rgb(214, 102, 102);
+}
